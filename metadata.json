@@ -1,0 +1,5 @@
+{
+  "name": "Cronos Scheduler",
+  "description": "A high-performance, algorithmic timetable generator for educational institutions. Features deterministic conflict-free scheduling, resource management, and AI-powered schedule analysis.",
+  "requestFramePermissions": []
+}
