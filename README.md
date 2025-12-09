@@ -1,6 +1,6 @@
 <div align="center">
 </div>
-
+Cronos Timetable is a cross-platform mobile application designed to automatically generate conflict-free timetables for educational institutions and organizations. The system employs advanced algorithmic scheduling techniques to prevent conflicts in room bookings, instructor schedules, and resource allocation without relying on machine learning
 
 This contains everything you need to run your app locally.
 
